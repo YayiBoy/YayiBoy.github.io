@@ -1,2 +1,2 @@
 # YayiBoy.github.io
-personal blog
+personal blog, see: http://yayioyy.xyz
