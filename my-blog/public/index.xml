@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 11 Nov 2024 23:34:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/post/second/</link>
+      <pubDate>Mon, 11 Nov 2024 23:34:19 +0800</pubDate>
+      <guid>http://localhost:1313/post/second/</guid>
+      <description>&lt;p&gt;ghghjggggggggggggggggggggggggggggggggggggggggg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Mon, 11 Nov 2024 22:38:39 +0800</pubDate>
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;h1 id=&#34;a&#34;&gt;a&lt;/h1&gt;&#xA;&lt;h2 id=&#34;b&#34;&gt;b&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;dfjalsdk f&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 11 Nov 2024 22:38:12 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;说明&#34;&gt;说明&lt;/h3&gt;&#xA;&lt;p&gt;本文档依靠hugo + hugo-theme-stack 构建，执行方式见&lt;a href=&#34;https://www.gohugo.org/doc/overview/quickstart/&#34;&gt;指令操作说明&lt;/a&gt;。&lt;/p&gt;&#xA;&lt;h3 id=&#34;常用命令&#34;&gt;常用命令&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;服务启动 ../hugo/huge.exe server  &amp;ndash;buildDrafts&lt;/li&gt;&#xA;&lt;li&gt;生成静态文件 ../hugo/huge.exe new content xxx/xxx.md&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
